@@ -6,9 +6,14 @@ export default defineConfig({
   srcDir: 'src',
   title: "JuliaLang Japan 2025",
   description: "こちらは JuliaLang Japan 2025 のホームページです。2025年12月13日(土)に東京科学大学 大岡山キャンパスにて開催いたします。皆様のご参加をお待ちしております。",
-
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+  head: [
+    ["link", { rel: "icon", href: "https://julialangja.github.io/assets/julialangja-biglogo.png" }],
+    ["meta", { property: "og:image", content: "https://julialangja.github.io/assets/julialangja-biglogo.png" }],
+    ["meta", { property: "og:site_name", content: "JuliaLang Japan 2025" }],
+    ["meta", { property: "twitter:site", content: "@JuliaLangJa" }],
+  ],
+    
+  themeConfig: {    
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '#概要' },
@@ -29,6 +34,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
+      // { icon: 'x', link: 'https://x.com/JuliaLangJa' },
       { icon: 'github', link: 'https://github.com/ohno/JuliaLangJa2025' }
     ]
   }
