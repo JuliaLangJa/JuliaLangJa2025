@@ -7,7 +7,7 @@ hero:
   # text: "#JuliaLangJa2025"
   tagline: 2025年12月13日(土)<br>東京科学大学 大岡山キャンパス<br>対面 / Zoom ハイブリット
   image:
-    src: ./square.svg
+    src: ./assets/square.svg
     alt: JuliaLangJa Logo
   actions:
     - theme: brand
