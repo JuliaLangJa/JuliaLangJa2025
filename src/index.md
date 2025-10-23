@@ -93,3 +93,4 @@ Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa
 ## 実行委員会
 
 - [大野 周平](https://github.com/ohno) (理化学研究所・横浜市立大学)
+- [村田 賢太](https://github.com/mrkn) (株式会社サイカ)
