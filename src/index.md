@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "JuliaLang Japan 2025"
   # text: "#JuliaLangJa2025"
-  tagline: 2025年12月13日(土)<br>東京科学大学 大岡山キャンパス<br>対面 / Zoom ハイブリット
+  tagline: 2025年12月13日(土)<br>東京科学大学 大岡山キャンパス
   image:
     src: ./square.svg
     alt: JuliaLangJa Logo
@@ -37,7 +37,7 @@ features:
 | 方式 | 対面 / Zoom ハイブリット |
 | 会場 | [東京科学大学 大岡山キャンパス レクチャーシアター](https://www.ssc.titech.ac.jp/amap/home/ookayama/west/lecture-bldg1/) |
 | 最寄り駅 | 大岡山駅（東急目黒線・東急大井町線） |
-| 懇親会 | キャンパス内にて19時頃から2時間程度（予定） |
+| 懇親会 | キャンパス内 第二食堂にて 18:40-20:40 |
 | 参加登録 | 近日中に開始予定 |
 | ハッシュタグ | [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa2025) |
 
@@ -62,7 +62,7 @@ TBA
 | 16:50 - 17:50 | [トーク](#メイントーク) × 3 |
 | 17:50 - 18:10 | 20分 予備時間  |
 | 18:10 - 18:20 | 閉会式 |
-| 18:40 -       | 懇親会 |
+| 18:40 - 20:40 | 懇親会 |
 
 ## メイントーク
 
@@ -95,3 +95,4 @@ Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa
 - [大野 周平](https://github.com/ohno) (理化学研究所・横浜市立大学)
 - [村田 賢太](https://github.com/mrkn) (株式会社サイカ)
 - [寺崎 敏志](https://github.com/AtelierArith) (AtelierArith)
+- TBA
