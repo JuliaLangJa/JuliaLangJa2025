@@ -38,13 +38,12 @@ features:
 | 会場 | [東京科学大学 大岡山キャンパス レクチャーシアター](https://www.ssc.titech.ac.jp/amap/home/ookayama/west/lecture-bldg1/) |
 | 最寄り駅 | 大岡山駅（東急目黒線・東急大井町線） |
 | 懇親会 | キャンパス内 第二食堂にて 18:40-20:40 |
-| 参加登録 | 近日中に開始予定 |
+| 参加登録 | https://forms.gle/jit5sPZPqnEHtxBR7 |
 | ハッシュタグ | [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa2025) |
 
 ## 参加登録
 
-こちらのURLよりご登録ください。
-https://forms.gle/jit5sPZPqnEHtxBR7
+https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 ## プログラム
 
