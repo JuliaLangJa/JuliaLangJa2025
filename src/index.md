@@ -97,4 +97,5 @@ Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa
 - [寺崎 敏志](https://github.com/AtelierArith) (AtelierArith)
 - [山下真](http://www.opt.comp.isct.ac.jp/yamashita/) (東京科学大学　情報理工学院)
 - [山口悠地](https://github.com/abap34) (東京科学大学　情報理工学院)
+- [富谷 昭夫](https://github.com/akio-tomiya) (東京女子大学)
 - TBA
