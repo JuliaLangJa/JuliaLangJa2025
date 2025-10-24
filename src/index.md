@@ -95,7 +95,7 @@ Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa
 - [大野 周平](https://github.com/ohno) (理化学研究所・横浜市立大学)
 - [村田 賢太](https://github.com/mrkn) (株式会社サイカ)
 - [寺崎 敏志](https://github.com/AtelierArith) (AtelierArith)
-- [山下真](http://www.opt.comp.isct.ac.jp/yamashita/) (東京科学大学　情報理工学院)
-- [山口悠地](https://github.com/abap34) (東京科学大学　情報理工学院)
+- [山下 真](http://www.opt.comp.isct.ac.jp/yamashita/) (東京科学大学)
+- [山口 悠地](https://github.com/abap34) (東京科学大学)
 - [富谷 昭夫](https://github.com/akio-tomiya) (東京女子大学)
 - TBA
