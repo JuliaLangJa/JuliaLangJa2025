@@ -43,7 +43,8 @@ features:
 
 ## 参加登録
 
-TBA
+こちらのURLよりご登録ください。
+https://forms.gle/jit5sPZPqnEHtxBR7
 
 ## プログラム
 
