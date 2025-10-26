@@ -99,3 +99,7 @@ Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa
 - [山口 悠地](https://github.com/abap34) (東京科学大学)
 - [富谷 昭夫](https://github.com/akio-tomiya) (東京女子大学)
 - TBA
+
+---
+
+本会議は[科学研究費補助金学術変革領域研究A「学習物理の創成」](https://mlphys.scphys.kyoto-u.ac.jp/)からの補助を受けています。
