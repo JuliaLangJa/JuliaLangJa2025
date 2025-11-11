@@ -67,7 +67,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 ## 開会式
 
-- 司会: 大野 周平（横浜市立大学D3, 理化学研究所JRA）
+- 司会: 大野 周平（横浜市大D3, 理研JRA）
 - 議題: 開会の挨拶, 開催の経緯説明, アンケート結果報告, 関連イベント紹介, 諸連絡
 - 概要: Julia言語を共通言語として地域や分野の垣根を越えた交流を図ると共に、アジア初の『JuliaCon』開催に向けて国内コミュニティの結束を強化することを目的として、[JuliaTokyo](https://juliatokyo.connpass.com/)、[JuliaTokai](https://juliatokai.connpass.com/)、[Julia in Physics](https://ohno.github.io/julia_in_physics_2024/)の運営メンバー等による研究会『JuliaLang Japan 2025』を開催します。
 
@@ -203,7 +203,7 @@ TBA
 
 ## 閉会式
 
-- 司会: 大野 周平（横浜市立大学D3, 理化学研究所JRA）
+- 司会: 大野 周平（横浜市大D3, 理研JRA）
 - 議題: JuliaCon Local Japan 2026 に向けて
 - 概要: Julia言語のコミュニティが主催する国際会議『JuliaCon』は、これまでアメリカを中心に欧米諸国で開催されてきた。アメリカ以外ではイギリス（ロンドン, 2018）、オランダ（アイントホーフェン, 2024）、ドイツ（フランクフルト, 2026）で開催されている。通常のJuliaCon（JuliaCon Global）の他にも『JuliaCon Local』という地域単位の会議も開催されおり、2023年12月には [JuliaCon Local Eindhoven 2023](https://juliacon.org/local/eindhoven2023/) がオランダ・アイントホーフェンで、2025年10月には [JuliaCon Local Paris 2025](https://juliacon.org/local/paris2025/) がフランス・パリで開催された。このように、JuliaConはいずれも欧米諸国での開催に留まっており、日本をはじめとするアジア諸国での開催事例はない。私たちは、アジア初のJuliaCon開催という大きな挑戦に向け、2025年12月13日(土)に実行委員会を正式に発足する。JuliaCon Local Paris 2025の運営スケジュールおよび [Call for Hosts](https://juliacon.org/2024/callforhosts/) を参考にすれば、JuliaCon Local Japan 2026 の開催は十分に実現可能である。
 
