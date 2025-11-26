@@ -210,7 +210,9 @@ TBA
 
 最寄り駅は **大岡山駅（東急目黒線・東急大井町線）** です。[**大岡山西講義棟１（旧大岡山西５号館）レクチャーシアター**](https://www.ssc.titech.ac.jp/amap/home/ookayama/west/lecture-bldg1/) までお越しください。メインエントランスは３階です。
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.9395791651054!2d139.6797488757844!3d35.604556972612066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f5305d0b00d1%3A0x74189cc8c3e7599a!2z44CSMTQ1LTAwNjEg5p2x5Lqs6YO95aSn55Sw5Yy655-z5bed55S677yR5LiB55uu77yT77yRIOWkp-WyoeWxseilv-ism-e-qeajnzHvvIjjg6zjgq_jg4Hjg6Pjg7zjgrfjgqLjgr_jg7zvvIk!5e0!3m2!1sja!2sjp!4v1761110827895!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+<div style="max-width: 100%; overflow: hidden; padding-bottom:1em;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3243.8720107903064!2d139.6832141992771!3d35.606223610248726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6018f531fc72559d%3A0x5f24f860e6a31773!2z5aSn5bKh5bGx6aeF44CB44CSMTQ1LTAwNjIg5p2x5Lqs6YO95aSn55Sw5Yy65YyX5Y2D5p2f77yT5LiB55uu77yS77yX4oiS77yR!3m2!1d35.607486!2d139.685643!4m5!1s0x6018f5305d0b00d1%3A0x74189cc8c3e7599a!2z44CSMTQ1LTAwNjEg5p2x5Lqs6YO95aSn55Sw5Yy655-z5bed55S677yR5LiB55uu77yT77yRIOWkp-WyoeWxseilv-ism-e-qeajnzHvvIjjg6zjgq_jg4Hjg6Pjg7zjgrfjgqLjgr_jg7zvvIk!3m2!1d35.604557!2d139.6823238!5e0!3m2!1sja!2sjp!4v1764064870965!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## 当日レポート
 
