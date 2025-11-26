@@ -68,7 +68,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 ## 開会式
 
-- 司会: 大野 周平（横浜市大D3, 理研JRA）
+- 司会: 大野 周平
 - 議題: 開会の挨拶, 開催の経緯説明, アンケート結果報告, 関連イベント紹介, 諸連絡
 - 概要: Julia言語を共通言語として地域や分野の垣根を越えた交流を図ると共に、アジア初の『JuliaCon』開催に向けて国内コミュニティの結束を強化することを目的として、[JuliaTokyo](https://juliatokyo.connpass.com/)、[JuliaTokai](https://juliatokai.connpass.com/)、[Julia in Physics](https://ohno.github.io/julia_in_physics_2024/)の運営メンバー等による研究会『JuliaLang Japan 2025』を開催します。
 
@@ -100,21 +100,21 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 ### メイントーク2
 
+- 演者: 松井 勇佑（東京大学 情報理工学系研究科 講師）
+- 題目: 東大１年生にJulia教えてみた
+- 概要: 東京大学の全ての１年生は、研究活動を体験する少人数チュートリアル講義である「初年次ゼミナール」を受講します。私はJuliaを用いて線形代数・最適化・機械学習を体験する初年次ゼミナール講義を開講しました。その取り組みの内容を紹介し、大学初等教育において学生が線形代数の内容を実際に自身でコーディングして計算することの重要性を議論します。そしてそのために、Google Colaboratory上で簡単に実行可能で、行列演算をシンプルに記述出来るJuliaの可能性を論じます。
+
+### メイントーク3
+
 - 演者: 王 安清（東北大学D1, 環境科学研究科福島研）
 - 題目: Juliaと線形代数の基礎：ソルバー選定とコード性能最適化
 - 概要: 本講演では、Julia エコシステムにおける線形方程式ソルバーを概観する（LU／QR／Cholesky などの直接法、CG／GMRES／MINRES／BiCGStab などの反復法、疎行列や前処理を含む）。さらに、既存ソルバーが適合しない場面で自作する際の性能上の落とし穴（不要アロケーション、キャッシュ非局所性、BLAS・スレッド設定等）と最適化指針を整理する。具体例として Jacobian-Free Newton–Krylov (JFNK) と ブロック三重対角系に対する Thomas 法 の実装を取り上げ、設計判断・計測・チューニングの勘所を示す。（発表言語：英語）
 
-### メイントーク3
+### メイントーク4
 
 - 演者: 山口 悠地（東京科学大）
 - 題目: JETLS.jl: Julia コンパイラインフラを活用した新世代 Language Server
 - 概要: 発表者も開発に参加している Julia 言語の新世代 Language Server である JETLS.jl を紹介します．JETLS.jl は最新の Julia コンパイラインフラを最大限活用して，高度な解析を少ない開発コストとメンテナンス負荷で実現します．本発表では JETLS.jl の概要の紹介にとどまらず，その実装についても述べて最近の Julia コンパイラフロントエンドの進化についても取り上げます．
-
-### メイントーク4
-
-- 演者: Hiroshi Shinaoka (Associate professor, Saitama University)
-- 題目: Bridging Julia and C++/Rust for Scientific Computing
-- 概要: JuliaはC-FFIを介して多様なプログラミング言語と連携できる柔軟な環境を備えている. 本発表では, 計算物理の応用を念頭に, Juliaライブラリ (SparseIR.jl) のバックエンドとしてC++およびRustを採用した事例を紹介する. LAPACK/BLASやMPIといった外部ライブラリへの依存関係をどのように扱い, 可搬性の高いパッケージとして構築するかについても議論する. 発表内容は, 寺崎敏志氏 (AtelierArith), Markus Wallerberger氏 (TU Wien) との共同研究に基づいている.
 
 ### メイントーク5
 
@@ -126,15 +126,9 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 - 演者: 佐原 恭平（京都大学D2）
 - 題目: Fermi.jl による量子化学計算の性能評価
-- 概要: 特に計算科学が専門でない分野では、レガシーシステムによって研究が進められるケースが多く見受けられる。 2025 年、量子化学計算において従来型のパッケージから Python に切り替えた場合のコスト等を比較する実験を行ったが（https://proceedings.scipy.org/articles/dvta2583）、今回はさらに Julia にまで対象を広げてこれを検証する。
+- 概要: 特に計算科学が専門でない分野では、レガシーシステムによって研究が進められるケースが多く見受けられる。 2025 年、量子化学計算において従来型のパッケージから Python に切り替えた場合のコスト等を比較する実験を行ったが（[https://proceedings.scipy.org/articles/dvta2583](https://proceedings.scipy.org/articles/dvta2583)）、今回はさらに Julia にまで対象を広げてこれを検証する。
 
 ### メイントーク7
-
-- 演者: 松井 勇佑（東京大学 情報理工学系研究科 講師）
-- 題目: 東大１年生にJulia教えてみた
-- 概要: 東京大学の全ての１年生は、研究活動を体験する少人数チュートリアル講義である「初年次ゼミナール」を受講します。私はJuliaを用いて線形代数・最適化・機械学習を体験する初年次ゼミナール講義を開講しました。その取り組みの内容を紹介し、大学初等教育において学生が線形代数の内容を実際に自身でコーディングして計算することの重要性を議論します。そしてそのために、Google Colaboratory上で簡単に実行可能で、行列演算をシンプルに記述出来るJuliaの可能性を論じます。
-
-### メイントーク8
 
 - 演者: 羽田 哲也（株式会社サイカ）
 - 題目: データ分析の実務における Julia
@@ -202,9 +196,13 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 TBA
 
+### ライトニングトーク11
+
+TBA
+
 ## 閉会式
 
-- 司会: 大野 周平（横浜市大D3, 理研JRA）
+- 司会: 富谷 昭夫
 - 議題: JuliaCon Local Japan 2026 に向けて
 - 概要: Julia言語のコミュニティが主催する国際会議『JuliaCon』は、これまでアメリカを中心に欧米諸国で開催されてきた。アメリカ以外ではイギリス（ロンドン, 2018）、オランダ（アイントホーフェン, 2024）、ドイツ（フランクフルト, 2026）で開催されている。通常のJuliaCon（JuliaCon Global）の他にも『JuliaCon Local』という地域単位の会議も開催されおり、2023年12月には [JuliaCon Local Eindhoven 2023](https://juliacon.org/local/eindhoven2023/) がオランダ・アイントホーフェンで、2025年10月には [JuliaCon Local Paris 2025](https://juliacon.org/local/paris2025/) がフランス・パリで開催された。このように、JuliaConはいずれも欧米諸国での開催に留まっており、日本をはじめとするアジア諸国での開催事例はない。私たちは、アジア初のJuliaCon開催という大きな挑戦に向け、2025年12月13日(土)に実行委員会を正式に発足する。JuliaCon Local Paris 2025の運営スケジュールおよび [Call for Hosts](https://juliacon.org/2024/callforhosts/) を参考にすれば、JuliaCon Local Japan 2026 の開催は十分に実現可能である。
 
