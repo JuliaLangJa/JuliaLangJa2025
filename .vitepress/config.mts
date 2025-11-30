@@ -15,7 +15,7 @@ export default defineConfig({
     ["meta", { property: "og:site_name", content: "JuliaLang Japan 2025" }],
     ["meta", { property: "og:description", content: "こちらは JuliaLang Japan 2025 のホームページです。2025年12月13日(土)に東京科学大学 大岡山キャンパスにて開催いたします。皆様のご参加をお待ちしております。" }],
     ["meta", { property: "og:locale", content: "ja_JP" }],
-    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:card", content: "summary" }],
     ["meta", { name: "twitter:title", content: "JuliaLang Japan 2025" }],
     ["meta", { name: "twitter:description", content: "こちらは JuliaLang Japan 2025 のホームページです。2025年12月13日(土)に東京科学大学 大岡山キャンパスにて開催いたします。皆様のご参加をお待ちしております。" }],
     ["meta", { name: "twitter:image", content: "https://julialangja.github.io/assets/julialangja-biglogo.png" }],
