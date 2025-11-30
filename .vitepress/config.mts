@@ -1,4 +1,3 @@
-import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -46,27 +45,6 @@ export default defineConfig({
       // { icon: 'x', link: 'https://x.com/JuliaLangJa' },
       { icon: 'github', link: 'https://github.com/ohno/JuliaLangJa2025' }
     ]
-  },
-  
-  // https://vitepress.dev/guide/extending-default-theme#overriding-internal-components
-  vite: {
-    resolve: {
-      alias: [
-        {
-          find: /^.*\/VPHome\.vue$/,
-          replacement: fileURLToPath(
-            new URL('./theme/components/VPHome.vue', import.meta.url)
-          )
-        },
-        {
-          find: /^.*\/VPNavBarHamburger\.vue$/,
-          replacement: fileURLToPath(
-            new URL('./theme/components/VPNavBarHamburger.vue', import.meta.url)
-          )
-        }
-
-      ]
-    }
   }
   
 })
