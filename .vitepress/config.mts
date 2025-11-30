@@ -1,3 +1,4 @@
+import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -8,12 +9,20 @@ export default defineConfig({
   description: "こちらは JuliaLang Japan 2025 のホームページです。2025年12月13日(土)に東京科学大学 大岡山キャンパスにて開催いたします。皆様のご参加をお待ちしております。",
   head: [
     ["link", { rel: "icon", href: "https://julialangja.github.io/assets/julialangja-biglogo.png" }],
+    ["meta", { property: "og:title", content: "JuliaLang Japan 2025" }],
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:url", content: "https://julialangja.github.io/julialangja2025/" }],
     ["meta", { property: "og:image", content: "https://julialangja.github.io/assets/julialangja-biglogo.png" }],
     ["meta", { property: "og:site_name", content: "JuliaLang Japan 2025" }],
-    ["meta", { property: "twitter:site", content: "@JuliaLangJa" }],
+    ["meta", { property: "og:description", content: "こちらは JuliaLang Japan 2025 のホームページです。2025年12月13日(土)に東京科学大学 大岡山キャンパスにて開催いたします。皆様のご参加をお待ちしております。" }],
+    ["meta", { property: "og:locale", content: "ja_JP" }],
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:title", content: "JuliaLang Japan 2025" }],
+    ["meta", { name: "twitter:description", content: "こちらは JuliaLang Japan 2025 のホームページです。2025年12月13日(土)に東京科学大学 大岡山キャンパスにて開催いたします。皆様のご参加をお待ちしております。" }],
+    ["meta", { name: "twitter:image", content: "https://julialangja.github.io/assets/julialangja-biglogo.png" }],
   ],
     
-  themeConfig: {    
+  themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '#概要' },
@@ -37,6 +46,27 @@ export default defineConfig({
       // { icon: 'x', link: 'https://x.com/JuliaLangJa' },
       { icon: 'github', link: 'https://github.com/ohno/JuliaLangJa2025' }
     ]
+  },
+  
+  // https://vitepress.dev/guide/extending-default-theme#overriding-internal-components
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPHome\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPHome.vue', import.meta.url)
+          )
+        },
+        {
+          find: /^.*\/VPNavBarHamburger\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPNavBarHamburger.vue', import.meta.url)
+          )
+        }
+
+      ]
+    }
   }
   
 })
