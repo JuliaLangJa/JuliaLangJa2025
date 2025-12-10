@@ -132,7 +132,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 - 演者: 羽田 哲也（株式会社サイカ）
 - 題目: データ分析の実務における Julia
-- 概要: TBD
+- 概要: 本講演では、データ分析の実務でJuliaを使っている立場から、Juliaの利点を具体例とともに共有する。標準的な手法を拡張したり組み合わせたりする場面を取り上げ、そのような分析においてJuliaがなぜ有効かを論じる。また、インタラクティブな探索における速度の重要性や、LLMとの分業といった観点にも触れる。
 
 ## ライトニングトーク
 
@@ -165,7 +165,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 ### ライトニングトーク5
 
 - 演者: 菅原 宏治（都立大）
-- 題目: Shiki Style を用いたコードブロックの修飾<br>　　: Using ShikiStyle for decorating Documenter's generated code blocks
+- 題目: Shiki Style を用いたコードブロックの修飾 ― Using ShikiStyle for decorating Documenter's generated code blocks
 - 概要: Documenter.jl が生成するHTMLコードブロックを ShikiStyle を用いて修飾できるようにした。複数行の背景色をネストレベルに応じて付与する機能を独自に追加した。新規パッケージの作成時に ShikiStyle を導入する PkgTemplates.jl のプラグインを開発・公開した。<br>[https://github.com/hsugawa8651/PkgTemplatesShikiPlugin.jl](https://github.com/hsugawa8651/PkgTemplatesShikiPlugin.jl)<br>[https://hsugawa8651.github.io/DocumenterShikiDemo.jl/dev/](https://hsugawa8651.github.io/DocumenterShikiDemo.jl/dev/)
 
 ### ライトニングトーク6
