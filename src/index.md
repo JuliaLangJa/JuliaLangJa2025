@@ -206,7 +206,7 @@ TBA
 最寄り駅は **大岡山駅（東急目黒線・東急大井町線）** です。[**大岡山西講義棟１（旧大岡山西５号館）レクチャーシアター**](https://www.ssc.titech.ac.jp/amap/home/ookayama/west/lecture-bldg1/) までお越しください。メインエントランスは３階です。
 
 <div style="max-width: 100%; overflow: hidden; padding-bottom:1em;">
-<iframe src="https://www.google.com/maps/d/embed?mid=1NhRK4EXeB-5VJkBaqUAsjNcRBcF3__Q&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NhRK4EXeB-5VJkBaqUAsjNcRBcF3__Q&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 </div>
 
 ## 当日レポート
