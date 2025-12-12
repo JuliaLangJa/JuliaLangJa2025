@@ -68,7 +68,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 
 ## 開会式
 
-- 司会: 大野 周平
+- 担当: 大野 周平
 - 議題: 開会の挨拶, 開催の経緯説明, アンケート結果報告, 関連イベント紹介, 諸連絡
 - 概要: Julia言語を共通言語として地域や分野の垣根を越えた交流を図ると共に、アジア初の『JuliaCon』開催に向けて国内コミュニティの結束を強化することを目的として、[JuliaTokyo](https://juliatokyo.connpass.com/)、[JuliaTokai](https://juliatokai.connpass.com/)、[Julia in Physics](https://ohno.github.io/julia_in_physics_2024/)の運営メンバー等による研究会『JuliaLang Japan 2025』を開催します。
 
@@ -97,6 +97,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 演者: 清水 団（城北中学校＋高等学校）
 - 題目: Julia言語と高校数学
 - 概要: Julia言語を利用して高校数学を学ぶ5日間のコースウェアを作成し、8月に本校の中学3年、高校1年生約80名を対象に授業を実施しました。その概要と授業の様子を報告します。Julia言語を用いることによって、従来の高校数学のアプローチと異なる流れになっており、新しいの高校数学を学習の提案となっています。
+- 資料: [PDF](https://shimizudan.github.io/20250824-28summer-semi/julialang_japan_2025_report.pdf)
 
 ### メイントーク2
 
@@ -145,12 +146,6 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 概要: TBA
 
 ### ライトニングトーク2
-
-- 演者: 石井 大輔
-- 題目: オープンソース実験による格子暗号アルゴリズムの実装的検証と計算効率評価
-- 概要: 本研究は、量子計算の登場により従来の公開鍵暗号（RSAやECC）が脅かされる中で、有力な耐量子候補とされる格子暗号の実用化を目指す試みである。特に、理論的には堅牢だが、計算コストや基底簡約の複雑性、大きな鍵サイズといった課題を抱える現状を踏まえ、オープンソース実験基盤を通じて理論と実装のギャップを埋めようとする。プロジェクトでは、格子構築・基底簡約・暗号処理を段階的に開発・検証し、計算効率や数値安定性を定量的に評価する。現在、イデアル格子構成ライブラリ（ビルダー）、基底ベクトル簡約アルゴリズム（ソルバー）、およびKZ簡約アルゴリズム（ソルバー）を実装中である。これらを用いて、Lattice Challengeなどの公開ベンチマークを通し、格子次元に対するスケーラビリティや計算時間の複雑性を測定する。得られた成果はオープンデータとして公開し、再現可能な基準を提供することを目的とする。最終的には、世界水準の格子簡約に要する計算努力を明らかにし、次世代のポスト量子暗号設計に実践的洞察をもたらす。
-
-### ライトニングトーク3
 
 - 演者: 後藤 俊介（JuliaTokai / JuliaLangJa）
 - 題目: Julia のコミュニティ運営やってます(仮)
@@ -202,7 +197,7 @@ TBA
 
 ## 閉会式
 
-- 司会: 富谷 昭夫
+- 担当: 富谷 昭夫
 - 議題: JuliaCon Local Japan 2026 に向けて
 - 概要: Julia言語のコミュニティが主催する国際会議『JuliaCon』は、これまでアメリカを中心に欧米諸国で開催されてきた。アメリカ以外ではイギリス（ロンドン, 2018）、オランダ（アイントホーフェン, 2024）、ドイツ（フランクフルト, 2026）で開催されている。通常のJuliaCon（JuliaCon Global）の他にも『JuliaCon Local』という地域単位の会議も開催されおり、2023年12月には [JuliaCon Local Eindhoven 2023](https://juliacon.org/local/eindhoven2023/) がオランダ・アイントホーフェンで、2025年10月には [JuliaCon Local Paris 2025](https://juliacon.org/local/paris2025/) がフランス・パリで開催された。このように、JuliaConはいずれも欧米諸国での開催に留まっており、日本をはじめとするアジア諸国での開催事例はない。私たちは、アジア初のJuliaCon開催という大きな挑戦に向け、2025年12月13日(土)に実行委員会を正式に発足する。JuliaCon Local Paris 2025の運営スケジュールおよび [Call for Hosts](https://juliacon.org/2024/callforhosts/) を参考にすれば、JuliaCon Local Japan 2026 の開催は十分に実現可能である。
 
@@ -211,12 +206,12 @@ TBA
 最寄り駅は **大岡山駅（東急目黒線・東急大井町線）** です。[**大岡山西講義棟１（旧大岡山西５号館）レクチャーシアター**](https://www.ssc.titech.ac.jp/amap/home/ookayama/west/lecture-bldg1/) までお越しください。メインエントランスは３階です。
 
 <div style="max-width: 100%; overflow: hidden; padding-bottom:1em;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3243.8720107903064!2d139.6832141992771!3d35.606223610248726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6018f531fc72559d%3A0x5f24f860e6a31773!2z5aSn5bKh5bGx6aeF44CB44CSMTQ1LTAwNjIg5p2x5Lqs6YO95aSn55Sw5Yy65YyX5Y2D5p2f77yT5LiB55uu77yS77yX4oiS77yR!3m2!1d35.607486!2d139.685643!4m5!1s0x6018f5305d0b00d1%3A0x74189cc8c3e7599a!2z44CSMTQ1LTAwNjEg5p2x5Lqs6YO95aSn55Sw5Yy655-z5bed55S677yR5LiB55uu77yT77yRIOWkp-WyoeWxseilv-ism-e-qeajnzHvvIjjg6zjgq_jg4Hjg6Pjg7zjgrfjgqLjgr_jg7zvvIk!3m2!1d35.604557!2d139.6823238!5e0!3m2!1sja!2sjp!4v1764064870965!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1NhRK4EXeB-5VJkBaqUAsjNcRBcF3__Q&ehbc=2E312F" width="640" height="480"></iframe>
 </div>
 
 ## 当日レポート
 
-Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa2025) です。https://x.com/hashtag/JuliaLangJa2025 よりご覧ください。
+Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa2025?f=live) です。https://x.com/hashtag/JuliaLangJa2025?f=live よりご覧ください。
 
 ## アンケート結果
 
