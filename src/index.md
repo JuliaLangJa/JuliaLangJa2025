@@ -236,7 +236,8 @@ Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa
 - [後藤 俊介](https://github.com/antimon2) (有限会社来栖川電算)
 - [永井 佑紀](https://github.com/cometscome) (東京大学)
 - [横山 俊一](https://sites.google.com/view/s-yokoyama/) (東京都立大学)
-- TBA
+- [堀川 由人](https://hyrodium.github.io/ja/)（大阪大学）
+- [大野 浩史](https://trios.tsukuba.ac.jp/researcher/0000003592)（筑波大学）
 
 ---
 
