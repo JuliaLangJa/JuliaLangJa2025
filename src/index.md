@@ -156,6 +156,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 演者: 寺崎 敏志
 - 題目: Juliaマニュアル自動翻訳プロジェクトのお話し
 - 概要: Juliaマニュアルを日本語で読めるようにChatGPTAPIで翻訳するプロジェクトを紹介する。
+- 資料: [PDF](./slides/JuliaJapan2025_寺崎.pdf)
 
 ### ライトニングトーク5
 
