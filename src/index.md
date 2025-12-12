@@ -241,4 +241,4 @@ Xのハッシュタグは [`#JuliaLangJa2025`](https://x.com/hashtag/JuliaLangJa
 
 ---
 
-本会議は[科学研究費補助金学術変革領域研究A「学習物理の創成」](https://mlphys.scphys.kyoto-u.ac.jp/)からの補助を受けています。
+本会議は科学研究費補助金学術変革領域研究（A）「[学習物理の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」、科学研究費補助金基盤研究（C）「[機械学習を用いたクォークを消去した格子QCD有効模型の構築と第一原理計算への応用](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K07287/)」、academist Prize 第5期「[プログラム開発の効率化で科学の発展を加速する！](https://academist-cf.com/projects/394?lang=ja)」からの補助を受けています。[academist Prize 第5期](https://prize.academist-cf.com/)を通して、[株式会社QUMPOO](https://qumpoo.com/)様、Jeff Bezanson様、小泉政貴様、ごまふあざらし様、荒木 亮様、佐藤建太様、道川稜平様、美奈辰徳様をはじめとする延べ71名のサポーターの方々からご支援をいただきました。この場を借りて御礼申し上げます。
