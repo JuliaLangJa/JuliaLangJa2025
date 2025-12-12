@@ -110,6 +110,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 演者: 王 安清（東北大学D1, 環境科学研究科福島研）
 - 題目: Juliaと線形代数の基礎：ソルバー選定とコード性能最適化
 - 概要: 本講演では、Julia エコシステムにおける線形方程式ソルバーを概観する（LU／QR／Cholesky などの直接法、CG／GMRES／MINRES／BiCGStab などの反復法、疎行列や前処理を含む）。さらに、既存ソルバーが適合しない場面で自作する際の性能上の落とし穴（不要アロケーション、キャッシュ非局所性、BLAS・スレッド設定等）と最適化指針を整理する。具体例として Jacobian-Free Newton–Krylov (JFNK) と ブロック三重対角系に対する Thomas 法 の実装を取り上げ、設計判断・計測・チューニングの勘所を示す。（発表言語：英語）
+- 資料: [PDF](./slides/JuliaLangJa2025_Wang.pdf)
 
 ### メイントーク4
 
@@ -156,7 +157,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 演者: 寺崎 敏志
 - 題目: Juliaマニュアル自動翻訳プロジェクトのお話し
 - 概要: Juliaマニュアルを日本語で読めるようにChatGPTAPIで翻訳するプロジェクトを紹介する。
-- 資料: [PDF](./slides/JuliaJapan2025_寺崎.pdf)
+- 資料: [PDF](./slides/JuliaLangJa2025_Terasaki.pdf)
 
 ### ライトニングトーク5
 
