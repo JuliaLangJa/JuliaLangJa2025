@@ -82,6 +82,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 演者: 尾崎 克久（芝浦工業大学 教授）
 - 題目: Juliaにおける行列積のエミュレーション
 - 概要: 本講演では，長年MATLABを活用してきた立場から，高精度計算に関してJuliaを使用した際の印象を共有する．具体的には，コード生成の容易さおよび実際の計算パフォーマンスの観点から，MATLABとの比較を交えながら報告する．さらに，近年注目を集めている行列積のエミュレーション手法である尾崎スキーム（Ozaki Scheme）をJulia上で実装した結果についても紹介する．
+- 資料: [PDF](./slides/JuliaLangJa2025_Ozaki.pdf)
 
 ### 招待講演2
 
@@ -126,6 +127,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 演者: 本山 裕一（東大物性研）
 - 題目: プロパティベーステスト in JuliaLang
 - 概要: JuliaLangにおけるプロパティベーステストパッケージSupposition.jlを用いて、プロパティベーステストについて説明する。
+- 資料: [PDF](./slides/JuliaLangJa2025_Motoyama.pdf)
 
 ### メイントーク6
 
