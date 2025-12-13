@@ -119,6 +119,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 演者: 山口 悠地（東京科学大）
 - 題目: JETLS.jl: Julia コンパイラインフラを活用した新世代 Language Server
 - 概要: 発表者も開発に参加している Julia 言語の新世代 Language Server である JETLS.jl を紹介します．JETLS.jl は最新の Julia コンパイラインフラを最大限活用して，高度な解析を少ない開発コストとメンテナンス負荷で実現します．本発表では JETLS.jl の概要の紹介にとどまらず，その実装についても述べて最近の Julia コンパイラフロントエンドの進化についても取り上げます．
+- 資料: [スライド](https://speakerdeck.com/abap34/jetls-dot-jl-a-new-language-server-for-julia)
 
 ### メイントーク5
 
