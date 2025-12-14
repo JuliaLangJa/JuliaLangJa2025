@@ -134,6 +134,7 @@ https://forms.gle/jit5sPZPqnEHtxBR7 よりご登録ください。
 - 演者: 佐原 恭平（京都大学D2）
 - 題目: DFTK.jl による量子化学計算の性能評価
 - 概要: 特に計算科学が専門でない分野では、レガシーシステムによって研究が進められるケースが多く見受けられる。 2025 年、量子化学計算において従来型のパッケージから Python に切り替えた場合のコスト等を比較する実験を行ったが（[https://proceedings.scipy.org/articles/dvta2583](https://proceedings.scipy.org/articles/dvta2583)）、今回はさらに Julia にまで対象を広げてこれを検証する。
+- 資料: [スライド](https://speakerdeck.com/schwalbe10/julialang-japan-2025)
 
 ### メイントーク7
 
